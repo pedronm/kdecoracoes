@@ -7,10 +7,10 @@
 		<script type="text/javascript" src="../js/js-base.js"></script>
 	</jsp:head>
 	<jsp:body>
-		<%@ include file="../tags/cabecalho.jsp" %>
+		<%@ include file="../tld/cabecalho.jsp" %>
 		
 		<
 		
-		<%@ include file="../tags/rodape.jsp" %>
+		<%@ include file="../tld/rodape.jsp" %>
 	</jsp:body>
 </jsp:html>
